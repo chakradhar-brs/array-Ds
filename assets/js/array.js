@@ -78,7 +78,7 @@ class ArrayDataStructure {
   
   // Adding elements to the beginning
   fruits.addNewItemToStart("pear");{
-    this.array.unshift(value);
+    
   }
   
   // Removing elements from the beginning
