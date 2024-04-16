@@ -19,3 +19,4 @@ To delete an element from an array, you need to specify the index of the element
 ## Searching an element
 
 To search for an element in an array, you need to specify the value of the element you are searching for. The array will be searched for the element, and the index of the element will be returned if it is found.
+ https://chakradhar-brs.github.io/array-Ds/
